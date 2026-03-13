@@ -11,7 +11,7 @@ jobs:
       contents: read
     steps:
       - uses: actions/checkout@v4
-      - uses: tesslio/skill-review-and-optimize@7d8ef58f9bf79f566b5a41401df721930dea0f12 # main
+      - uses: tesslio/skill-review-and-optimize@44a74c53d4b35b7242908ee51082fb503460a8d0 # main
         with:
           optimize: true
           tessl-token: ${{ secrets.TESSL_API_TOKEN }}
