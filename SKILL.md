@@ -94,11 +94,3 @@ External resources on context engineering:
 - Production experience from leading AI labs on agent system design
 - Framework documentation for LangGraph, AutoGen, and CrewAI
 
----
-
-## Skill Metadata
-
-**Created**: 2025-12-20
-**Last Updated**: 2025-12-25
-**Author**: Agent Skills for Context Engineering Contributors
-**Version**: 1.2.0
