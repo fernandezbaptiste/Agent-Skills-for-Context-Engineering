@@ -89,7 +89,7 @@ Internal skills in this collection:
 - [evaluation](skills/evaluation/SKILL.md)
 - [project-development](skills/project-development/SKILL.md)
 
-External references on context engineering:
+External context engineering references:
 - Research on attention mechanisms and context window limitations
 - Production experience from leading AI labs on agent system design
 - Framework documentation for LangGraph, AutoGen, and CrewAI
