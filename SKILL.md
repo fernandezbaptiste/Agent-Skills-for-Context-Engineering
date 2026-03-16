@@ -93,4 +93,3 @@ External references:
 - Research on attention mechanisms and context window limitations
 - Production experience from leading AI labs on agent system design
 - Framework documentation for LangGraph, AutoGen, and CrewAI
-
