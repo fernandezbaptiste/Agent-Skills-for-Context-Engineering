@@ -17,3 +17,5 @@ This is a skill about context engineering for AI agents. It covers various topic
 ## More Info
 
 Context engineering is important. You should use it when building agents. There are many ways to do it.
+
+That's about it really.
